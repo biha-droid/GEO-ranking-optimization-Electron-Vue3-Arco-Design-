@@ -1,3 +1,5 @@
+微信：ayoeyn
+
 # GEO 搜索结果优化排名助手
 
 基于 Electron + Vue3 + Arco Design 的桌面应用，支持 AI 内容生成和多平台自动发布。
